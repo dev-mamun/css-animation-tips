@@ -1,1 +1,1 @@
-# css-animation-tips
+# CSS Animation with the Cubic Bezier
